@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background:#EF233C;
+  background:#028090;
   position: relative;
   font-family: 'solway',
     monospace;
@@ -36,15 +36,15 @@ a:visited {
 }
 
 .square-one .inner {
-  background:#8D99AE;
+  background: olive;
 }
 
 .square-two .inner {
-  background: #c04377;
+  background: #f0f3bd;
 }
 
 .square-three .inner {
-  background:#EDF2F4;
+  background:#02C39A
 }
 
 .outer {
